@@ -1,0 +1,1 @@
+This is repository of code that using in Amazon Web Services, WildRydes Serverless web-application projects
